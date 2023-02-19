@@ -15,7 +15,7 @@ public:
     }
     ~Cube()
     {
-
+      cout<<"Destructing object"<<endl;
     }
     double Volume()
     {
